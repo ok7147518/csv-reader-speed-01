@@ -1,3 +1,4 @@
+// v3.1 — intake-retry marker (comment only; no behavior change).
 // Fast drop-in for csv-reader 1.0.0 (make.fun's own CSV reader): run(input) returns, for every
 // input {text, header}, exactly the {columns, rows, errors} the reference returns, but faster.
 // No dependencies, no clock, no randomness.
